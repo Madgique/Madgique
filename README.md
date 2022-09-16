@@ -4,7 +4,7 @@
 
 ### I am a freelance developer
 - 🔭 I’m currently working on Minecraft 1.7.10 mods
-- 🌱 I’m currently learning ReactJS 💩
+- 🌱 I’m currently learning ReactJS
 
 ### Connect with me:
 [<img align="left" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@3.13.0/icons/twitter.svg" />]<a href="https://twitter.com/MagicVirus43">[Twitter]</a>
