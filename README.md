@@ -3,13 +3,13 @@
 ### Hi there, I'm Denis - lMagickl 👋
 
 ### I am a freelance developer
-- 🔭 I’m currently working on Minecraft 1.7.10 mods
+- 🔭 I’m currently working on VS Code Extensions
 - 🌱 I’m currently learning ReactJS
 
 ### Connect with me:
-[<img align="left" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@3.13.0/icons/twitter.svg" />]<a href="https://twitter.com/MagicVirus43">[Twitter]</a>
-[<img align="left" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@3.13.0/icons/linkedin.svg" />]<a href="https://www.linkedin.com/in/denis-karupovic-88aa00171
-">[LinkedIn]</a>
+<a href="https://twitter.com/MagicVirus43"><img align="left" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@3.13.0/icons/twitter.svg" /></a>
+<a href="https://www.linkedin.com/in/denis-karupovic-88aa00171"><img align="left" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@3.13.0/icons/linkedin.svg" /></a>
+<br>
 
 ### Languages and Tools:
 <img align="left" width="42px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/php/php-original.svg" />
