@@ -26,3 +26,5 @@
 <a href="https://sass-lang.com/"><img alt="sass logo" src="https://sass-lang.com/favicon.ico" width="42"></a>
 <a href="https://jestjs.io"><img alt="jest logo" src="https://jestjs.io/img/favicon/favicon.ico" width="42"></a>
 </p>
+
+<a href="https://www.buymeacoffee.com/lMagickl"><img src="https://img.buymeacoffee.com/button-api/?text=Buy me a coffee&emoji=&slug=lMagickl&button_colour=FFDD00&font_colour=000000&font_family=Cookie&outline_colour=000000&coffee_colour=ffffff" /></a>
