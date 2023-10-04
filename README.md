@@ -4,7 +4,7 @@
 
 ### I am a freelance developer
 - 🔭 I’m currently working on VS Code Extensions
-- 🌱 I’m currently learning AWS
+- 🌱 I’m currently learning AWS Lamnda & API Gateway
 
 ### Connect with me:
 <a href="https://twitter.com/MagicVirus43"><img align="left" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@3.13.0/icons/twitter.svg" /></a>
