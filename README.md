@@ -2,9 +2,9 @@
 
 ### Hi there, I'm Denis - lMagickl 👋
 
-### I am a freelance developer
+### I am a freelance front-end developer
 - 🔭 I’m currently working on VS Code Extensions
-- 🌱 I’m currently learning AWS Lamnda & API Gateway
+- 🌱 I’m currently learning ...
 
 ### Connect with me:
 <a href="https://twitter.com/MagicVirus43"><img align="left" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@3.13.0/icons/twitter.svg" /></a>
