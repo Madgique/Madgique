@@ -13,7 +13,7 @@
 ### Languages and Tools:
 <p>
 <a href="https://reactjs.org/" title="ReactJS"><img alt="reactJS logo" src="https://reactjs.org/favicon.ico" width="42"></a>
-<a href="https://reactjs.org/" title="NextJS"><img alt="nextJS logo" src="https://nextjs.org/favicon.ico" width="42"></a>
+<a href="https://nextjs.org/" title="NextJS"><img alt="nextJS logo" src="https://nextjs.org/favicon.ico" width="42"></a>
 <a href="https://vitejs.dev/" title="Vite"><img alt="vite logo" src="https://vitejs.dev/logo.svg" width="42"></a>
 <a href="https://www.typescriptlang.org/" title="Typescript"><img alt="typescript logo" src="https://www.typescriptlang.org/favicon.ico" width="42"></a>
 <a href="https://containers.dev/" title="DevContainers"><img alt="devcontainer logo" src="https://containers.dev/img/favicon.ico" width="42"></a>
@@ -25,4 +25,4 @@
 <img src="https://komarev.com/ghpvc/?username=lmagickl"/>
 
 <a href="https://www.buymeacoffee.com/lMagickl"><img src="https://img.buymeacoffee.com/button-api/?text=Buy me a coffee&emoji=&slug=lMagickl&button_colour=FFDD00&font_colour=000000&font_family=Cookie&outline_colour=000000&coffee_colour=ffffff" /></a>
-<a href="https://www.paypal.com/donate/?hosted_button_id=NZ84D4E3EWXMJ"><img src="https://pics.paypal.com/00/s/Njk1NjVjN2QtYjljMi00OTUzLTlmMDgtZDRkOWVkOTUxZDE3/file.PNG" /></a>
+<a href="https://www.paypal.com/donate/?hosted_button_id=NZ84D4E3EWXMJ"><img width="150" src="https://pics.paypal.com/00/s/Njk1NjVjN2QtYjljMi00OTUzLTlmMDgtZDRkOWVkOTUxZDE3/file.PNG" /></a>
