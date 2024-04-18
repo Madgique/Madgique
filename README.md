@@ -24,3 +24,4 @@
 <img src="https://komarev.com/ghpvc/?username=lmagickl"/>
 
 <a href="https://www.buymeacoffee.com/lMagickl"><img src="https://img.buymeacoffee.com/button-api/?text=Buy me a coffee&emoji=&slug=lMagickl&button_colour=FFDD00&font_colour=000000&font_family=Cookie&outline_colour=000000&coffee_colour=ffffff" /></a>
+<a href="https://www.paypal.com/donate/?hosted_button_id=NZ84D4E3EWXMJ"><img src="https://pics.paypal.com/00/s/Njk1NjVjN2QtYjljMi00OTUzLTlmMDgtZDRkOWVkOTUxZDE3/file.PNG" /></a>
