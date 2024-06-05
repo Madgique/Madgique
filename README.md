@@ -3,8 +3,8 @@
 ### Hi there, I'm Denis - lMagickl 👋
 
 ### I am a freelance front-end developer
-- 🔭 I’m currently working on VS Code Extensions
-- 🌱 I’m currently learning <a href="https://www.figma.com/fr/" title="Figma"><img alt="jest logo" src="https://static.figma.com/app/icon/1/favicon.ico" width="42"></a>
+- 🔭 I’m currently working on &nbsp;&nbsp; <a href="https://laravel.com/" title="Laravel"><img alt="laravel logo" src="https://laravel.com/img/logomark.min.svg" width="24"></a> / <a href="https://vitejs.dev/" title="Vite"><img alt="vite logo" src="https://vitejs.dev/logo.svg" width="24"></a>
+- 🌱 I’m currently learning <a href="https://forums.minecraftforge.net/" title="Forge"><img alt="forge logo" src="https://forums.minecraftforge.net/uploads/monthly_2021_03/forge_logo.png.d1ecf3ff5345b3d06cb4e8ae78c4406e.png" width="90"></a>
 
 ### Connect with me:
 <a href="https://www.linkedin.com/in/denis-karupovic-88aa00171" title="LinkedIn"><img align="left" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@3.13.0/icons/linkedin.svg" /></a>
@@ -12,14 +12,17 @@
 
 ### Languages and Tools:
 <p>
-<a href="https://reactjs.org/" title="ReactJS"><img alt="reactJS logo" src="https://reactjs.org/favicon.ico" width="42"></a>
-<a href="https://nextjs.org/" title="NextJS"><img alt="nextJS logo" src="https://nextjs.org/favicon.ico" width="42"></a>
-<a href="https://vitejs.dev/" title="Vite"><img alt="vite logo" src="https://vitejs.dev/logo.svg" width="42"></a>
-<a href="https://www.typescriptlang.org/" title="Typescript"><img alt="typescript logo" src="https://www.typescriptlang.org/favicon.ico" width="42"></a>
-<a href="https://containers.dev/" title="DevContainers"><img alt="devcontainer logo" src="https://containers.dev/img/favicon.ico" width="42"></a>
-<a href="https://www.docker.com/" title="Docker"><img alt="docker logo" src="https://www.docker.com/wp-content/uploads/2023/04/cropped-Docker-favicon-32x32.png" width="42"></a>
-<a href="https://mui.com/" title="MUI"><img alt="MUI logo" src="https://mui.com/static/favicon.ico" width="42"></a>
-<a href="https://www.java.com/fr/" title="Java"><img align="left" width="42px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original-wordmark.svg" /></a>
+  <a href="https://reactjs.org/" title="ReactJS"><img alt="reactJS logo" src="https://reactjs.org/favicon.ico" width="42"></a>
+  <a href="https://nextjs.org/" title="NextJS"><img alt="nextJS logo" src="https://nextjs.org/favicon.ico" width="42"></a>
+  <a href="https://vitejs.dev/" title="Vite"><img alt="vite logo" src="https://vitejs.dev/logo.svg" width="42"></a>
+  <a href="https://www.typescriptlang.org/" title="Typescript"><img alt="typescript logo" src="https://www.typescriptlang.org/favicon.ico" width="42"></a>
+  <a href="https://mui.com/" title="MUI"><img alt="MUI logo" src="https://mui.com/static/favicon.ico" width="42"></a>
+  <a href="https://tailwindcss.com/" title="Tailwind CSS"><img alt="tailwind logo" src="https://tailwindcss.com/favicons/favicon-32x32.png" width="42"></a>
+  <a href="https://ui.shadcn.com" title="ShadCN UI"><img alt="shadcn logo" src="https://ui.shadcn.com/favicon-32x32.png" width="42"></a>
+  <a href="https://www.java.com/fr/" title="Java"><img  alt="java logo" width="42px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original-wordmark.svg" /></a>
+  <a href="https://laravel.com/" title="Laravel"><img alt="laravel logo" src="https://laravel.com/img/logomark.min.svg" width="42"></a> 
+  <a href="https://containers.dev/" title="DevContainers"><img alt="devcontainer logo" src="https://containers.dev/img/favicon.ico" width="42"></a>
+  <a href="https://www.docker.com/" title="Docker"><img alt="docker logo" src="https://www.docker.com/wp-content/uploads/2023/04/cropped-Docker-favicon-32x32.png" width="42"></a>
 </p>
 
 <img src="https://komarev.com/ghpvc/?username=lmagickl"/>
