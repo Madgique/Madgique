@@ -1,6 +1,6 @@
 <link rel="stylesheet" href="https://cdn.jsdelivr.net/gh/devicons/devicon@v2.15.1/devicon.min.css">
 
-### Hi there, I'm Denis - lMagickl 👋
+### Hi there, I'm Denis - Madgique 👋
 
 ### I am a freelance front-end developer
 - 🔭 I’m currently working on &nbsp;&nbsp; <a href="https://laravel.com/" title="Laravel"><img alt="laravel logo" src="https://laravel.com/img/logomark.min.svg" width="24"></a> / <a href="https://vitejs.dev/" title="Vite"><img alt="vite logo" src="https://vitejs.dev/logo.svg" width="24"></a>
@@ -25,7 +25,7 @@
   <a href="https://www.docker.com/" title="Docker"><img alt="docker logo" src="https://www.docker.com/wp-content/uploads/2023/04/cropped-Docker-favicon-32x32.png" width="42"></a>
 </p>
 
-<img src="https://komarev.com/ghpvc/?username=lmagickl"/>
+<img src="https://komarev.com/ghpvc/?username=Madgique"/>
 
-<a href="https://www.buymeacoffee.com/lMagickl"><img src="https://img.buymeacoffee.com/button-api/?text=Buy me a coffee&emoji=&slug=lMagickl&button_colour=FFDD00&font_colour=000000&font_family=Cookie&outline_colour=000000&coffee_colour=ffffff" /></a>
+<a href="https://www.buymeacoffee.com/Madgique"><img src="https://img.buymeacoffee.com/button-api/?text=Buy me a coffee&emoji=&slug=Madgique&button_colour=FFDD00&font_colour=000000&font_family=Cookie&outline_colour=000000&coffee_colour=ffffff" /></a>
 <a href="https://www.paypal.com/donate/?hosted_button_id=NZ84D4E3EWXMJ"><img width="150" src="https://pics.paypal.com/00/s/Njk1NjVjN2QtYjljMi00OTUzLTlmMDgtZDRkOWVkOTUxZDE3/file.PNG" /></a>
