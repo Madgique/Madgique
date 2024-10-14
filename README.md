@@ -3,11 +3,12 @@
 ### Hi there, I'm Denis - Madgique 👋
 
 ### I am a freelance front-end developer
-- 🔭 I’m currently working on &nbsp;&nbsp; <a href="https://laravel.com/" title="Laravel"><img alt="laravel logo" src="https://laravel.com/img/logomark.min.svg" width="24"></a> / <a href="https://vitejs.dev/" title="Vite"><img alt="vite logo" src="https://vitejs.dev/logo.svg" width="24"></a>
+- 🔭 I’m currently working on &nbsp;&nbsp; <a href="https://reactjs.org/" title="ReactJS"><img alt="reactJS logo" src="https://reactjs.org/favicon.ico" width="42"></a>&nbsp;/&nbsp;
+  <a href="https://nextjs.org/" title="NextJS"><img alt="nextJS logo" src="https://nextjs.org/favicon.ico" width="42"></a>
 - 🌱 I’m currently learning <a href="https://forums.minecraftforge.net/" title="Forge"><img alt="forge logo" src="https://forums.minecraftforge.net/uploads/monthly_2021_03/forge_logo.png.d1ecf3ff5345b3d06cb4e8ae78c4406e.png" width="90"></a>
 
 ### Connect with me:
-<a href="https://www.linkedin.com/in/denis-karupovic-88aa00171" title="LinkedIn"><img align="left" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@3.13.0/icons/linkedin.svg" /></a>
+<a href="https://www.linkedin.com/in/denis-karupovic-88aa00171" title="LinkedIn"><img align="left" width="22px" src="https://static.licdn.com/scds/common/u/images/logos/favicons/v1/favicon.ico" /></a>
 <br>
 
 ### Languages and Tools:
