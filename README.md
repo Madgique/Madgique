@@ -28,5 +28,5 @@
 
 <img src="https://komarev.com/ghpvc/?username=Madgique"/>
 
-<a href="https://www.buymeacoffee.com/Madgique"><img src="https://img.buymeacoffee.com/button-api/?text=Buy me a coffee&emoji=&slug=Madgique&button_colour=FFDD00&font_colour=000000&font_family=Cookie&outline_colour=000000&coffee_colour=ffffff" /></a>
+<a href="https://www.buymeacoffee.com/madgique" target="_blank"><img src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" alt="Buy Me A Coffee" style="height: 60px !important;width: 217px !important;" ></a>
 <a href="https://www.paypal.com/donate/?hosted_button_id=NZ84D4E3EWXMJ"><img width="150" src="https://pics.paypal.com/00/s/Njk1NjVjN2QtYjljMi00OTUzLTlmMDgtZDRkOWVkOTUxZDE3/file.PNG" /></a>
