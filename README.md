@@ -2,7 +2,7 @@
 
 ### Hi there, I'm Denis - Madgique 👋
 
-### I am a freelance front-end developer
+### I am a full-stack developer
 - 🔭 I’m currently working on &nbsp;&nbsp; <a href="https://reactjs.org/" title="ReactJS"><img alt="reactJS logo" src="https://reactjs.org/favicon.ico" width="42"></a>&nbsp;/&nbsp;
   <a href="https://nextjs.org/" title="NextJS"><img alt="nextJS logo" src="https://nextjs.org/favicon.ico" width="42"></a>
 - 🌱 I’m currently learning <a href="https://forums.minecraftforge.net/" title="Forge"><img alt="forge logo" src="https://forums.minecraftforge.net/uploads/monthly_2021_03/forge_logo.png.d1ecf3ff5345b3d06cb4e8ae78c4406e.png" width="90"></a>
