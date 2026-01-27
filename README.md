@@ -1,32 +1,108 @@
-<link rel="stylesheet" href="https://cdn.jsdelivr.net/gh/devicons/devicon@v2.15.1/devicon.min.css">
+<div align="center">
 
-### Hi there, I'm Denis - Madgique 👋
+# Hey there! I'm Denis 👋
 
-### I am a full-stack developer
-- 🔭 I’m currently working on &nbsp;&nbsp; <a href="https://reactjs.org/" title="ReactJS"><img alt="reactJS logo" src="https://reactjs.org/favicon.ico" width="42"></a>&nbsp;/&nbsp;
-  <a href="https://nextjs.org/" title="NextJS"><img alt="nextJS logo" src="https://nextjs.org/favicon.ico" width="42"></a>
-- 🌱 I’m currently learning <a href="https://forums.minecraftforge.net/" title="Forge"><img alt="forge logo" src="https://forums.minecraftforge.net/uploads/monthly_2021_03/forge_logo.png.d1ecf3ff5345b3d06cb4e8ae78c4406e.png" width="90"></a>
+### `aka Madgique`
 
-### Connect with me:
-<a href="https://www.linkedin.com/in/denis-karupovic-88aa00171" title="LinkedIn"><img align="left" width="22px" src="https://static.licdn.com/scds/common/u/images/logos/favicons/v1/favicon.ico" /></a>
-<br>
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&color=6366F1&center=true&vCenter=true&random=false&width=500&lines=Full-Stack+Developer+%F0%9F%92%BB;Minecraft+Mod+Creator+%E2%9B%8F%EF%B8%8F;Learning+Game+Dev+with+Godot+%F0%9F%8E%AE;Open+Source+Enthusiast+%F0%9F%9A%80)](https://git.io/typing-svg)
 
-### Languages and Tools:
-<p>
-  <a href="https://reactjs.org/" title="ReactJS"><img alt="reactJS logo" src="https://reactjs.org/favicon.ico" width="42"></a>
-  <a href="https://nextjs.org/" title="NextJS"><img alt="nextJS logo" src="https://nextjs.org/favicon.ico" width="42"></a>
-  <a href="https://vitejs.dev/" title="Vite"><img alt="vite logo" src="https://vitejs.dev/logo.svg" width="42"></a>
-  <a href="https://www.typescriptlang.org/" title="Typescript"><img alt="typescript logo" src="https://www.typescriptlang.org/favicon.ico" width="42"></a>
-  <a href="https://mui.com/" title="MUI"><img alt="MUI logo" src="https://mui.com/static/favicon.ico" width="42"></a>
-  <a href="https://tailwindcss.com/" title="Tailwind CSS"><img alt="tailwind logo" src="https://tailwindcss.com/favicons/favicon-32x32.png" width="42"></a>
-  <a href="https://ui.shadcn.com" title="ShadCN UI"><img alt="shadcn logo" src="https://ui.shadcn.com/favicon-32x32.png" width="42"></a>
-  <a href="https://www.java.com/fr/" title="Java"><img  alt="java logo" width="42px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original-wordmark.svg" /></a>
-  <a href="https://laravel.com/" title="Laravel"><img alt="laravel logo" src="https://laravel.com/img/logomark.min.svg" width="42"></a> 
-  <a href="https://containers.dev/" title="DevContainers"><img alt="devcontainer logo" src="https://containers.dev/img/favicon.ico" width="42"></a>
-  <a href="https://www.docker.com/" title="Docker"><img alt="docker logo" src="https://www.docker.com/wp-content/uploads/2023/04/cropped-Docker-favicon-32x32.png" width="42"></a>
-</p>
+<br/>
 
-<img src="https://komarev.com/ghpvc/?username=Madgique"/>
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/denis-karupovic-88aa00171)
+[![Buy Me A Coffee](https://img.shields.io/badge/Buy_Me_A_Coffee-FFDD00?style=for-the-badge&logo=buy-me-a-coffee&logoColor=black)](https://www.buymeacoffee.com/madgique)
+[![PayPal](https://img.shields.io/badge/PayPal-00457C?style=for-the-badge&logo=paypal&logoColor=white)](https://www.paypal.com/donate/?hosted_button_id=NZ84D4E3EWXMJ)
 
-<a href="https://www.buymeacoffee.com/madgique" target="_blank"><img src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" alt="Buy Me A Coffee" style="height: 60px !important;width: 217px !important;" ></a>
-<a href="https://www.paypal.com/donate/?hosted_button_id=NZ84D4E3EWXMJ"><img width="150" src="https://pics.paypal.com/00/s/Njk1NjVjN2QtYjljMi00OTUzLTlmMDgtZDRkOWVkOTUxZDE3/file.PNG" /></a>
+</div>
+
+---
+
+## 🎯 Currently
+
+<div align="center">
+
+🌱 **Learning:** ![Godot](https://img.shields.io/badge/Godot-478CBF?style=flat-square&logo=godot-engine&logoColor=white) ![GDScript](https://img.shields.io/badge/GDScript-355570?style=flat-square&logo=godot-engine&logoColor=white)
+
+⛏️ **Creating:** Minecraft Mods (Fabric & NeoForge)
+
+☕ **Vibes:** coffee + music + code
+
+</div>
+
+---
+
+## ⛏️ Minecraft Mods
+
+<div align="center">
+
+I create mods for the Minecraft community! Here are my platforms:
+
+[![CurseForge](https://img.shields.io/badge/CurseForge-27.2k_downloads-F16436?style=for-the-badge&logo=curseforge&logoColor=white)](https://www.curseforge.com/members/madgique/projects)
+[![Modrinth](https://img.shields.io/badge/Modrinth-35k_downloads-1BD96A?style=for-the-badge&logo=modrinth&logoColor=white)](https://modrinth.com/user/Madgique)
+
+</div>
+
+---
+
+## 🛠️ Tech Stack
+
+<div align="center">
+
+### Frontend
+
+![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
+![Next.js](https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white)
+![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white)
+![Vite](https://img.shields.io/badge/Vite-646CFF?style=for-the-badge&logo=vite&logoColor=white)
+
+### Styling
+
+![TailwindCSS](https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white)
+![shadcn/ui](https://img.shields.io/badge/shadcn/ui-000000?style=for-the-badge&logo=shadcnui&logoColor=white)
+
+### Modding & Game Dev
+
+![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
+![Godot](https://img.shields.io/badge/Godot-478CBF?style=for-the-badge&logo=godot-engine&logoColor=white)
+
+### DevOps
+
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
+![DevContainers](https://img.shields.io/badge/Dev_Containers-2496ED?style=for-the-badge&logo=visualstudiocode&logoColor=white)
+
+</div>
+
+---
+
+## 📊 Top Languages
+
+<div align="center">
+
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Madgique&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=6366F1&text_color=c9d1d9" />
+
+</div>
+
+---
+
+## 🐍 Contribution Graph
+
+<div align="center">
+
+![Snake animation](https://raw.githubusercontent.com/Madgique/Madgique/output/github-contribution-grid-snake-dark.svg)
+
+</div>
+
+---
+
+<div align="center">
+
+### 💬 Let's Connect!
+
+_Open to collaborations on Minecraft mods, web projects, or game dev experiments!_
+
+<br/>
+
+![Profile Views](https://komarev.com/ghpvc/?username=Madgique&color=6366F1&style=for-the-badge)
+
+[![Star](https://img.shields.io/badge/⭐_Star_my_repos_if_you_like_my_work!-6366F1?style=for-the-badge)](https://github.com/Madgique?tab=repositories)
+
+</div>
