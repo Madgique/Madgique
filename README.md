@@ -36,8 +36,8 @@
 
 I create mods for the Minecraft community! Here are my platforms:
 
-[![CurseForge](https://img.shields.io/badge/CurseForge-27.2k_downloads-F16436?style=for-the-badge&logo=curseforge&logoColor=white)](https://www.curseforge.com/members/madgique/projects)
-[![Modrinth](https://img.shields.io/badge/Modrinth-35k_downloads-1BD96A?style=for-the-badge&logo=modrinth&logoColor=white)](https://modrinth.com/user/Madgique)
+[![CurseForge](https://img.shields.io/badge/CurseForge-111k_downloads-F16436?style=for-the-badge&logo=curseforge&logoColor=white)](https://www.curseforge.com/members/madgique/projects)
+[![Modrinth](https://img.shields.io/badge/Modrinth-55.9k_downloads-1BD96A?style=for-the-badge&logo=modrinth&logoColor=white)](https://modrinth.com/user/Madgique)
 
 </div>
 
